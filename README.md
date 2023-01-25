@@ -4,5 +4,3 @@
  repositorio criado durante uma aula de git
  
  Essa linha eu adicionei diretamente do site
-
- 
